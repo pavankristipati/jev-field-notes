@@ -1,0 +1,9 @@
+# Secrets: never commit API keys
+.env
+.env.*
+
+# macOS creates these hidden files in folders you open in Finder
+.DS_Store
+
+# Log files from local runs
+*.log

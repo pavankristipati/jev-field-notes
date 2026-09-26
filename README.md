@@ -34,8 +34,8 @@ Use made-up data only. Every request goes to Vercel's gateway and TypeSafe's ser
 
 ## Write-ups
 
-- Part I, for executives: [link]
-- Part II, the lab: [link]
+- Part I, for executives: https://pavankristipati.substack.com/p/one-evening-with-jev-part-i-what
+- Part II, the lab: https://pavankristipati.substack.com/p/one-evening-with-jev-part-ii-the
 
 ## Notes
 

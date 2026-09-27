@@ -15,6 +15,8 @@ Jev reads text and answers questions you define in advance (yes/no, pick from a 
 
 One call with four questions: 408 input tokens, $0.000017 list price, 115 ms inside the model, 547 ms round trip from Ohio.
 
+![Request path from laptop to Vercel AI Gateway to TypeSafe. Of the 547 ms round trip, 115 ms was inside Jev.](images/jev-request-path.png)
+
 ## How to run it
 
 1. Create a Vercel account and an AI Gateway API key. The gateway requires a card on file.

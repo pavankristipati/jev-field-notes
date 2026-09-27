@@ -6,7 +6,7 @@ Jev reads text and answers questions you define in advance (yes/no, pick from a 
 
 ## Results
 
-| Review | Probability the writer recommends the movie |
+| Movie Review | Probability the writer recommends the movie |
 |---|---|
 | "I went in with low expectations but the ending had me on the edge of my seat. I would watch it again." | 0.94 |
 | "The acting was fine but the plot dragged and I checked my phone twice." | 0.13 |
